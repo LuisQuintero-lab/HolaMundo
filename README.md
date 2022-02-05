@@ -1,4 +1,4 @@
 # Hola Mundo!
-Primer repositorio creado en este git
+Mi primer repositorio.
 
 Autor: Luis Quintero 05/Feb/2022
